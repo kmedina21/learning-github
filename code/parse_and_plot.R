@@ -47,7 +47,6 @@ ggplot(data = iris,
        x = "Sepal Length",
        y = "Sepal Width")
 
-
 # put together dplyr and ggplot to visualize
 # the quality score of a SNP call by position in the genome
 # colored by sample, but only for SNPs with quality > 150
