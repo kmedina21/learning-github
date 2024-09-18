@@ -1,8 +1,8 @@
-# A script to parse and make some plots of example SARS-CoV
+# A script to parse and make some plots of example SARS-CoV-2 SNP data
 
 # Kim Medina
 # ctmedina2@dons.usfca.edu
-# Sept. 16, 2024
+# Sept. 18, 2024
 
 # load packages
 library(ggplot2)
